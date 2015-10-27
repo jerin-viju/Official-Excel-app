@@ -1,0 +1,1730 @@
+{
+    "version": 1,
+    "competitions": [
+        {
+            "id": "CMP01",
+            "title": "Computer Science",
+            "image": "csback",
+            "color": "blue",
+            "events": [
+                {
+                    "id": "CMP01E1",
+                    "title": "#include",
+                    "image": "r",
+                    "about": "#include is an individual online competition that will test the language versatility and coding skills.The competition is meant to test the C/C++/Java/Python Programming skills of the students. In this event there will be 3 levels and is it purely point based. The coder can attempt any questions at any time. The code can submitted either by uploading an appropriate file or by writing it online. ",
+                    "event_format": [
+                        {
+                            "title": " ",
+                            "description": " Duration of the event is 7 days. \n User can register online on the website.\n There will be total of 30 questions\n A live leaderboard will be maintained so that the participant can check his/her ranking."
+                        },
+                        {
+                            "title": "",
+                            "description": " "
+                        }
+                    ],
+                    "rules": [
+                        " 1. Codes should be in C/C++/Java/Python v2.7. \n2. The ranking is done as follows:\nThe one with the highest score is ranked first.\nIn case if 2 or more persons have the same score, then they are ranked by whoever obtained the total points first\n3. If any malicious activity like submitting the duplicate code is detected the user account will be deleted without prior notice. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Joe Paul",
+                            "phno": "+91-8943368394",
+                            "email": "joepaul.mec@gmail.com"
+                        },
+                        {
+                            "name": "Krishna Prasad",
+                            "phno": "+91-9496352175",
+                            "email": "krishnaprasad.mec@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "7000",
+                        "second": "5000",
+                        "third": "3000"
+                    }
+                },
+                {
+                    "id": "CMP01E2",
+                    "title": "Hackmaster",
+                    "image": "q",
+                    "about": "“The primary goal of hacking is the intellectual curiosity,the seduction of adventure”What’s life without a certain scandal? What’s power without some mischief? Living at the edge of the law? Be the vigilante that controls the code.",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "This is a skill-based online contest. It is an individual event designed to test the contestant’s skills in cryptography and steganography. For the purposes of this contest, there will be different levels of problems with varying difficulty levels. This competition was designed intending to instill an interest in ethical hacking, network and computer security, fields that are gaining immense importance with every passing day."
+                        },
+                        {
+                            "title": "final",
+                            "description": "This is a skill-based online contest. It is an individual event designed to test the contestant’s skills in cryptography and steganography. For the purposes of this contest, there will be different levels of problems with varying difficulty levels. This competition was designed intending to instill an interest in ethical hacking, network and computer security, fields that are gaining immense importance with every passing day."
+                        }
+                    ],
+                    "rules": [
+                        "This is strictly an individual online event.\n The duration of the event is 2 weeks.\n Registration is required for participation and there should be no duplicate accounts. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Minhaj Ahmed",
+                            "phno": "+91-8089172850",
+                            "email": "minhaj.mec94@gmail.com "
+                        },
+                        {
+                            "name": "Rahul R",
+                            "phno": "+91-8547735952",
+                            "email": "rahulr.mec94@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "8000",
+                        "second": "5000",
+                        "third": "2000"
+                    }
+                },
+                {
+                    "id": "CMP01E3",
+                    "title": "4 x 120",
+                    "image": "b",
+                    "about": "4 people and 120 seconds of synchronous understanding and unrivalled teamwork separate the winners from the others. The best teams that we have encountered have a few things in common :teamwork, impeccable sync, immeasurable confidence in each other and the ability to pick up from where his predecessor left, better his effort and win the title. Time is of essence here and teams not in sync fall apart. ",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "4 people and 120 seconds of synchronous understanding and unrivalled teamwork separate the winners from the others. The best teams that we have encountered have a few things in common :teamwork, impeccable sync, immeasurable confidence in each other and the ability to pick up from where his predecessor left, better his effort and win the title. Time is of essence here and teams not in sync fall apart."
+                        },
+                        {
+                            "title": "final",
+                            "description": "4 people and 120 seconds of synchronous understanding and unrivalled teamwork separate the winners from the others. The best teams that we have encountered have a few things in common :teamwork, impeccable sync, immeasurable confidence in each other and the ability to pick up from where his predecessor left, better his effort and win the title. Time is of essence here and teams not in sync fall apart."
+                        }
+                    ],
+                    "rules": [
+                        "1.Each team should have exactly four members.\n2. Participants will need to know C, C++.\n3. The team that codes the most optimal solution in the shortest time will be declared as winners.\n4.Programs with least complexity would be given preference."
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Ajmal Azeez",
+                            "phno": "+91-9020404022",
+                            "email": "ajmal@excelmec.org"
+                        },
+                        {
+                            "name": "",
+                            "phno": "",
+                            "email": ""
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "8000",
+                        "second": "5000",
+                        "third": "2000"
+                    }
+                },
+                {
+                    "id": "CMP01E4",
+                    "title": "Lord of the Code",
+                    "image": "v",
+                    "about": "The lines have been drawn, sides have been taken. The war is to begin soon. Crack the most twisted of codes and complex of logics  to win the title of the ‘Lord of the Code’.",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "MCQ round of 30 questions\n(Top 14 teams move to the second round)"
+                        },
+                        {
+                            "title": "final",
+                            "description": "Consists of two rounds running parallel to each other. Half of the teams will solve logical questions while the other half will be coding. At exactly 90 minutes the roles will be switched.\nBoth the rounds will have 2 questions each and the winner will be decided by the most points scored."
+                        }
+                    ],
+                    "rules": [
+                        "1.Final round participants can use C, C++, Java or Python for coding.\n2. Logical questions focus more on better logic and less on completion time.\n3.Coding focuses equally on the completion time and the logic."
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Ajmal Azeez",
+                            "phno": "+91-9020404022",
+                            "email": "ajmal@excelmec.org"
+                        },
+                        {
+                            "name": "",
+                            "phno": "",
+                            "email": ""
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "10000",
+                        "second": "8000",
+                        "third": "5000"
+                    }
+                },
+                {
+                    "id": "CMP01E5",
+                    "title": "Tech Geek",
+                    "image": "bb",
+                    "about": "If you love tinkering,dismantling,fixing and creating new things, Tech Geek is tailor made for you. Take your craze for technology, a notch higher!",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "This is an online coding event that will enable a programmer to show off his language versatility and his coding skills.This is going to be an event to test how big of a computer geek you are. This event will test skills from coding to debugging, and from to technical knowledge to reverse coding. Tech Geek will consist of a set of tasks and questions to be done in a given amount of tim. There can be only one winner, so the fastest Person to complete the task will be given rewards. The questions will be related to Computer Science. "
+                        },
+                        {
+                            "title": "",
+                            "description": "Everyday at a fixed time, from 8 to 10 pm, a question or a set of questions will be posted on the tech geek site. The first user to correctly complete the given task will get a 200 Rs worth mobile recharge.  "
+                        }
+                    ],
+                    "rules": [
+                        "1.This is strictly an individual online event.\n2.The duration of the event is 2 weeks.\n3.Registration is required for participation and there should be no duplicate accounts.",
+                        "",
+                        ""
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Marc Cyrus",
+                            "phno": "+91-9995438933",
+                            "email": " "
+                        },
+                        {
+                            "name": "",
+                            "phno": "",
+                            "email": " "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "5000",
+                        "second": "2000",
+                        "third": "1000"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "CMP02",
+            "title": "Electronics",
+            "image": "ecback",
+            "color": "red",
+            "events": [
+                {
+                    "id": "CMP02E1",
+                    "title": "Terrain Master",
+                    "image": "cc",
+                    "about": "Unleash the innovator in you to carve a path for survival. Brace your robot for a dangerous escapade across treacherous trails to attain the crown of ’The Terrain Master’. Remember the best way is always through the obstacle, never around it. ",
+                    "event_format": [
+                        {
+                            "title": "",
+                            "description": "Teams are required to build a wireless/wired robot which is capable of navigating an obstacle filled environment within the least possible time. \nThe event itself comprises of one single round. Each team is allotted a duration of 15 minutes to complete the task  and will get only three chances. The bot will have to start from the initial position, navigate the path by itself, avoid all obstacles and get to the finishing point. \nEach team will initially be given 50 points. In case of the bot touching the boundary, or in case of each chance after the first, points would be deducted. The team that completes the event in the shortest time compared to other teams would earn bonus points. \nThe team having the most points at the end of the event, is judged the winner. "
+                        },
+                        {
+                            "title": "",
+                            "description": ""
+                        }
+                    ],
+                    "rules": [
+                        "1.A team can have a maximum of up to 4 members. \n2.Bot size should not exceed a size of 30x30x30 cm. \n3.The weight of the bot should not exceed 10 kg.\n 4. Incase of a situation where no team completes the task, then the team which has completed more of the task (having the maximum points) will be declared as the winner"
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Rahul Gopal",
+                            "phno": "+91-9745332806",
+                            "email": "rahulgopal1994.mec@gmail.com"
+                        },
+                        {
+                            "name": "Arun Lal",
+                            "phno": "+91-7736462563",
+                            "email": "arunlalkm1993.mec@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "5000",
+                        "second": "3000",
+                        "third": "2000"
+                    }
+                },
+                {
+                    "id": "CMP02E2",
+                    "title": "Extrinsicity",
+                    "image": "l",
+                    "about": "Get ready to dissect, debug and design! Are you intrigued by the exhilarating world of electronics? Unravel the obscure language spoken by circuits on the battle ground of extrinsicity. This event provides the perfect platform to portray your devotion to electronics. ",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "Contestants will be tested on the field of basic electronic circuits.The one team which gets through the different stages will be lauded with laurels. 8 teams will be selected."
+                        },
+                        {
+                            "title": "Circuit Marathon ",
+                            "description": "The top 8 teams chosen from the screening stage will take part in this round. Through 3 stages, 4 teams will be eliminated successively. In these stages, designing and debugging skills of the participants will be tested. "
+                        },
+                        {
+                            "title": "Debugging Round ",
+                            "description": "The top 4 teams of round two contest in the final round. The contestants will be required to debug/Design an Analog/Digital circuit within the stipulated time. The team which debugs/designs the circuit first will be declared as the winner. In case of tie or no output performance of teams in the second round is analysed, on the basis of which the final decision will be made. "
+                        }
+                    ],
+                    "rules": [
+                        "1. A team may have a maximum of three members only.  \n2.Necessary components and datasheet will be provided.\n3. In case of a tie or incomplete output, winners will be judged based on their performance in the previous rounds.  "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Vimal V Chacko",
+                            "phno": "91 9447505174",
+                            "email": "vimalvchacko@gmail.com "
+                        },
+                        {
+                            "name": "Raveen A Kumar",
+                            "phno": "+91 9744271300",
+                            "email": "raveenajaykumar.mec@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "5000",
+                        "second": "3000",
+                        "third": "2000"
+                    }
+                },
+                {
+                    "id": "CMP02E3",
+                    "title": "Circumstance",
+                    "image": "e",
+                    "about": "\"Its not your circumstances that shape you,its how you react to your circumstances\"-Anne Orttund. Unveil the true engineer buried within you. Weave the threads of technology and life together. Challenge your mind with real life scenarios to be the master of circumstances!",
+                    "event_format": [
+                        {
+                            "title": "Round 1 ",
+                            "description": "Some basic electronics questions to test your knowledge and thinking abilities.Only the worthy pass through. "
+                        },
+                        {
+                            "title": "Round 2 ",
+                            "description": "You can do it as a team itself.Some basic tasks to test the skills at an application level.The top four teams go into the final round. "
+                        },
+                        {
+                            "title": "Round 3 ",
+                            "description": "The final round! Your ability to apply your knowledge in a real world scenario is tested.All your skills as an engineer is tested here. "
+                        }
+                    ],
+                    "rules": [
+                        "1.The event will be a team event with each team comprising of three or four members.\n2.All the required components and datasheets will be provided. NO external components are allowed.\n3.The decision of the judges will be final and binding.  "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Dheeraj PK",
+                            "phno": "+91-9496341209 ",
+                            "email": "pdheerajk2427@gmail.com  "
+                        },
+                        {
+                            "name": "Nandagopan G ",
+                            "phno": "+91-8281004082 ",
+                            "email": "nandagopan.mec@gmail.com  "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP02E4",
+                    "title": "Defuse",
+                    "image": "j",
+                    "about": "\"Daring to go where no one has gone before is the secret of heroism\". How would it feel to stand there,right at the edge -dancing with danger? What if each passing second is ticking away on the dial of a live bomb. Step up and be the hero!Hurry! The clock is ticking!",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "The Preliminary Round is multiple choice question type, with 30 questions and 30 minutes. 10 teams clearing the Prelims will move on to Round 1. "
+                        },
+                        {
+                            "title": "Round 1 ",
+                            "description": "It is a 30 minute circuit challenge where the participants may be asked to analyze and debug digital circuits, retrieve sequences or find the outputs. 6 teams clearing Round 1 move ahead to Round "
+                        },
+                        {
+                            "title": "Round 2 ",
+                            "description": "It is a 45 minute round, of similar layout as previous rounds, testing the abstract and practical knowledge of the participants in various concepts. 4 teams making the cut will compete in the Final Round"
+                        },
+                        {
+                            "title": "final",
+                            "description": "The Final Round is a race to defuse the bomb. The teams must, in 60 minutes or less analyze the circuitry, and find a way to deactivate the device. The first team to do so is awarded the first prize"
+                        }
+                    ],
+                    "rules": [
+                        "1.A team may have a maximum of three members.\n2.Datasheets, and component details shall be provided if required. No external components are allowed\n3.In case of no output from any team, or tie judgement shall be made based on a viva‐voce by the judges.  "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Nazreen Shaffe",
+                            "phno": "+91 9562733286",
+                            "email": "nasrin.mec@gmail.com "
+                        },
+                        {
+                            "name": "Anareen Augustine Gomez",
+                            "phno": "+91-9400818820",
+                            "email": "anareenaugustine@gmail.com"
+                        },
+                        {
+                            "name": "Anjana R Menon",
+                            "phno": "+91-99400842243",
+                            "email": "anjanamenon.mec@gmail.com "
+                        },
+                        {
+                            "name": "Paul P Vinod",
+                            "phno": "+91 9400090333",
+                            "email": "paulpvinod@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "will be updated soon",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP02E5",
+                    "title": "Robowars",
+                    "image": "aa",
+                    "about": "Are you game for a round of sheer grit and guts? Do you have what it takes to battle it out for the ultimate glory?  Prepare yourself for a no-holds-barred, nerve wrecking metal against metal carnage.So grab your bots and get ready to rumble! Only the worthy shall be left standing when the dust settles.",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "Each robot will be allotted an opponent and each pair of opponents will take on each other in a one-on-one fight and the winner is the one with higher points at the end of the battle. The winner proceeds to the next round.Match Duration - 5 minutes. "
+                        },
+                        {
+                            "title": "2 Round",
+                            "description": "The rules are similar to that of Round 1. The arena will have undergone some changes and the challenge will, obviously, be greater. Here the bots get a chance to showcase the actual power of their armour and their skills.Only 4 bots will proceed to fight the next and final round.   "
+                        },
+                        {
+                            "title": "Semi Final",
+                            "description": "One-on-One Knockout.The winners of the two semi-finals will qualify to the Grand Finale.Time limit of this round will be 10 minutes.  "
+                        },
+                        {
+                            "title": "final",
+                            "description": "One-on-one knockout round. 10 minute battle.The bot with the maximum points wins. "
+                        }
+                    ],
+                    "rules": [
+                        "1.Each team can have up to four members. \n2.Registrations close at 9.30 am of the day of event. \n3.The Robot must be manually controlled through wired/wireless interface. \n4.Maximum permitted dimensions of the robot are 45cm X 45cm X 45 cm and its weight must not exceed 15k\n5.Only two members from each team are allowed to operate the bot during each stage. \n6. For wired robots the length of the wire should be minimum of four meters, failing of which fetch the opponent 50 points"
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Ankith S Kumar",
+                            "phno": "+91-7736874768",
+                            "email": "ankith.mec@gmail.com "
+                        },
+                        {
+                            "name": "Albin Joseph",
+                            "phno": "+91-9497459645",
+                            "email": "albinjoseph.mec@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "will be updated soon",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP02E6",
+                    "title": "Lifeline",
+                    "image": "u",
+                    "about": "Get your act together before the patient flatlines. An exclusive event which provides an opportunity to assert your proficiency in debugging and endow yourself with the honour of being a life saver. Scrutinise the inner workings of an impaired medical instrument to keep a soul alive. ",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "This round consists of a 30 minute MCQ test.The test will contain electronics and biomed related questions.Ten teams selected from this round will proceed to the next round.    "
+                        },
+                        {
+                            "title": "semifinals ",
+                            "description": "Following your instincts is crucial when you are dealing with a life waiting to be saved and all you have is limited time. This round tests your ability to make decisions and execute them in the given time. \n1. The round consists of three biomedical circuit level tasks which tests your practical electronics knowledge. \n2.Only four teams which complete the tasks first will make their way to the next round.  "
+                        },
+                        {
+                            "title": "final",
+                            "description": "Careful what you do, because one mistake from the biomedical engineer, its not an IC burnt, but a life lost.Small innovative designs from you today could be the technology of tomorrow. This round brings out the scientist in you. \n1. In this round, you will be asked to design and/or implement a circuit which will be the solution for a real life problem.\n2. Winner will be selected depending on the perfection and implementation of the circuit. "
+                        }
+                    ],
+                    "rules": [
+                        "1.The competition is held for teams of 2 members. \n2.Failing to save the 'patient' in given time results in immediate elimination. \n3.The coordinators of the event reserve the right to take appropriate decisions in case of any issues/conflicts.   "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Rohith KD",
+                            "phno": "+91-9400619360",
+                            "email": "kdrohith@gmail.com "
+                        },
+                        {
+                            "name": "Paul P Vinod",
+                            "phno": "+91-9400090333",
+                            "email": "anareenaugustine@gmail.com"
+                        },
+                        {
+                            "name": "Anjana R Menon",
+                            "phno": "+91-99400842243",
+                            "email": "paulpvinod@gmail.com  "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "will be updated soon",
+                        "second": " ",
+                        "third": " "
+                    }
+                }
+            ]
+        },
+        {
+            "id": "CMP04",
+            "title": "Electrical",
+            "image": "ii",
+            "events": [
+                {
+                    "id": "CMP04E1",
+                    "title": "Extundo Prodigo",
+                    "image": "m",
+                    "about": " Extundo Prodigo aims to bring out the technical creativity and engineering prowess from its participants. The goal of the event is to use your expertise in the electrical and mechanical field to create a machine to combat against others in the final arena",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "Written test conducted based on basic electrical & mechanical engineering and aptitude. Top 5 teams move to next round. "
+                        },
+                        {
+                            "title": "Design ",
+                            "description": "Each team given a problem statement and four types of arena chosen on basis of picking slots. Teams are shown their arena as well as the components they receive. Teams are required to design a gadget according to the given problem statement using the available components.  "
+                        },
+                        {
+                            "title": "Realisation of design ",
+                            "description": "Realization of the design produced in level 2. Components will be provided and the machine will be tested. Teams can spend two hours in the workshop.  "
+                        },
+                        {
+                            "title": "Finals ",
+                            "description": "The finalist teams compete with each other using their gadgets at the arena. "
+                        }
+                    ],
+                    "rules": [
+                        "1.Each team may contain upto a maximum of 3 members. \n2.Participants must be aware of basic workshop safety and operational precautions.\n3.Basic tools like pliers,wire strippers,screwdrivers will be provided. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Crisin John",
+                            "phno": "+919567114384",
+                            "email": "crisinjohn@gmail.com "
+                        },
+                        {
+                            "name": "Rojin Philip",
+                            "phno": "+919746830322",
+                            "email": "rojin1994.mec@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP04E2",
+                    "title": "Lumiere",
+                    "image": "w",
+                    "about": "Channel your inner Edison to engineer the most basic solution to the given wiring problem. Lumiere gives you an opportunity to use all your wiring skills to come up with the most effective solution, all while the clock is ticking.  ",
+                    "event_format": [
+                        {
+                            "title": "Prelims ",
+                            "description": "The Prelims will be a pen and paper round involving objective and subjective questions. The round seeks to test the basic electrical knowledge of the team. Contestants can participate in teams of 2 or less. 12 best teams are shortlisted to the second round. "
+                        },
+                        {
+                            "title": "Second round ",
+                            "description": "The second round is designed to test the extent of the team's knowledge of electrical entities and components. Teams successfully completing this round move forward to round three.  "
+                        },
+                        {
+                            "title": "Third round-Design round ",
+                            "description": "The Prelims will be a pen and paper round involving objective and subjective questions. The round seeks to test the basic electrical knowledge of the team. Contestants can participate in teams of 2 or less. 12 best teams are shortlisted to the second round. "
+                        },
+                        {
+                            "title": "Fourth round-Implementation round ",
+                            "description": "In this round, the five finalists will have to wire up the circuit in third round in conduit system within allotted time. The circuits are tested for working and efficiency. Prizes are awarded based on cumulative performance in rounds 3 and 4. "
+                        }
+                    ],
+                    "rules": [
+                        "1. Each team can have up to 2 members. \n2.The contestants must explain the design to the satisfaction of the judges and convince them to proceed to the implementation part. \n3.All the required components and tools will be provided for the final round"
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Akhil M Nair",
+                            "phno": "+91 8089878411",
+                            "email": "akhilmurali.n94@gmail.com "
+                        },
+                        {
+                            "name": "Geethanjali",
+                            "phno": "+91 9656640366",
+                            "email": "volgageethu@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "will be updated soon",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP04E3",
+                    "title": "E-Aventura",
+                    "image": "k",
+                    "about": "Venture ahead along the road not taken to discover the hidden treasure.Untangle the complex knots with your technical knowledge and pave your path to victory.",
+                    "event_format": [
+                        {
+                            "title": "Round 1",
+                            "description": "This stage consists of a 30 minute MCQ test.Questions will test the participant’s knowledge in basic electrical,electronics,computer science and logical reasoning skills.Eight teams selected from this round will proceed to the next stage. "
+                        },
+                        {
+                            "title": "Round 2",
+                            "description": "The teams which cleared the first level move on to the second level which is a series of electrical,electronics and computer science tasks connected to each other by a set of clues.This is a knockout level in which the number of teams are filtered on each of the tasks based on their completion speed .Two teams avoiding knockout in these tasks will proceed onto the final round where they have to compete each other for the final treasure."
+                        }
+                    ],
+                    "rules": [
+                        "1.A team may have a maximum of four members. \n2. All required components and data‐sheets will be provided. No external components may be used.\n3.In case of a tie or incomplete output, a viva‐voce session will be conducted. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Midhun Krishna",
+                            "phno": " +91-9633342476",
+                            "email": "midhunkrishnaedpl@gmail.com "
+                        },
+                        {
+                            "name": "Rahul B Thomas",
+                            "phno": "+91-8281343646",
+                            "email": "rahulbthomas@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "will be updated soon",
+                        "second": " ",
+                        "third": " "
+                    }
+                }
+            ]
+        },
+        {
+            "id": "CMP05",
+            "title": "Non Technical",
+            "image": "kk",
+            "color": "#6e6f72",
+            "events": [
+                {
+                    "id": "CMP05E14",
+                    "title": "Kryptos",
+                    "image": "t",
+                    "about": "A multilevel game that tests your skills at interpreting clues and cracking codes. Since the event has no pre-requisites and world-wide popularity of such events, Kryptos is the most popular online event in Excel",
+                    "event_format": [
+                        {
+                            "title": "",
+                            "description": "The game is conducted in time span of 2 weeks and each week a set of 30 questions are released. No point is awarded for solving a level. Instead winners are calculated on the basis of maximum level he/she has reached and time taken. "
+                        },
+                        {
+                            "title": "",
+                            "description": "1st week prize -3k each for mec and non-mec topper of the week.\n2nd week prize -4k each for mec and non-mec topper of the week.\nIn addition to this exciting prizes (mainly gift coupons) are awarded when the players crack a difficult level. "
+                        }
+                    ],
+                    "rules": [
+                        "1.Answers can be entered in Uppercase or Lowercase. Spaces are also allowed. It doesn't Matter. Try to keep identities intact, i.e., mention full names for anything you enter.. \n2.Google is your encyclopedia, it'll give you anything and everything that you want. But the admins will always be there to help. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Balram P",
+                            "phno": "+91-8129130866",
+                            "email": "balbbrl@gmail.com "
+                        },
+                        {
+                            "name": "Anil V Sajith",
+                            "phno": " +91-9400879335",
+                            "email": " "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E15",
+                    "title": "DalalBull",
+                    "image": "dalalbul",
+                    "about": "Dalalbull is a one of a kind online stock simulation game. It tests the participant's stock market knowledge as well as his/her trading skills. It is an individual event and only amateurs are eligible to participate. Each participant is provided ₹10,00,000 virtual money as initial capital.   ",
+                    "event_format": [
+                        {
+                            "title": " ",
+                            "description": "Check our website for more details "
+                        },
+                        {
+                            "title": " ",
+                            "description": ""
+                        }
+                    ],
+                    "rules": [
+                        "1. This is strictly an individual online event. \n2.The duration of the event is 14 days \n3.Registration using valid Facebook account is required for participation and there should be no duplicate accounts. \n4.The ranking is done as follows: The one with the highest net worth is ranked first .The final winner is decided based purely on his final net worth "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Jojo Joseph",
+                            "phno": " +91-8281439596",
+                            "email": "jojojoseph09@gmail.com "
+                        },
+                        {
+                            "name": "Sahal Edavana",
+                            "phno": " +91-8129403399",
+                            "email": "Sahaledavana.mec@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E1",
+                    "title": "Best Manager",
+                    "image": "d",
+                    "about": "A good manager sees the big picture in even the smallest situation. They are true leaders. He doesn't just produce outstanding results; he has fun in the process!  If you think you have what it takes to extract the best from a situation and be in top form during a crisis, this is the just the place to suit up and become the best manager! ",
+                    "event_format": [
+                        {
+                            "title": "Preliminary written round ",
+                            "description": "A preliminary written round of duration 30 minutes which tests participant’s aptitude skills, verbal abilities, logical and reasoning skills. 50 students will be shortlisted to move onto the next round. "
+                        },
+                        {
+                            "title": "Video and Image Synthesis ",
+                            "description": "This round consists of a short video clipping from which questions shall be asked. Similarly, audio clipping follows. Later is Q&A session based on personality identification from a set of broken images"
+                        },
+                        {
+                            "title": " Group Discussion ",
+                            "description": "Round starts with a GD, grouping 18 candidates from second round. Three groups of 6 each will have their GDs simultaneously. "
+                        },
+                        {
+                            "title": "Personal Interview and Marketing the product ",
+                            "description": "6 participants shortlisted from the GD round will have to both market a product to the judging panel. Marketing Skills, leadership skills as well as initiative will be the key points of judgement\nThe second stage of this round sees 6 candidates being judged individually based on a personal interview. "
+                        }
+                    ],
+                    "rules": [
+                        "1.Individual participation only. \n2.Improper behaviour of any means at any stage will lead to immediate disqualification. \n3.The decision of the organizers and the judges will be final. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Jerin Joseph",
+                            "phno": "+91-9746754620",
+                            "email": "jerinjoseph.mec@gmail.com "
+                        },
+                        {
+                            "name": "Abhilash Mathew",
+                            "phno": "+91-9446075500",
+                            "email": "abhilashmathew854@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "will be updated soon",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E2",
+                    "title": "General Quiz",
+                    "image": "z",
+                    "about": "Brace yourself for a quizzing extravaganza that will test your mind about anything and everything under the sun! Be prepared to get amused, perplexed and absorbed. You might even get to learn something new.Come, battle it out! After all, knowledge is power.",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "A written selection round where teams of two have to answer a set of questions. "
+                        },
+                        {
+                            "title": "final",
+                            "description": "Six teams qualify for the finals. "
+                        }
+                    ],
+                    "rules": [
+                        "1.The quiz is open only to college students. \n2.A team shall comprise of 2 members. Cross college teams are allowed. \n3. In the event of a tie, a tie breaker would be the deciding factor. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Anagha Menon",
+                            "phno": " +91-9633895721",
+                            "email": "anaghamenon1994.mec@gmail.com "
+                        },
+                        {
+                            "name": "Amith Jose",
+                            "phno": "+91-9048077702",
+                            "email": "amith.jose@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": "will be updated soon",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E3",
+                    "title": "Kluge",
+                    "image": "s",
+                    "about": " Ever wished you could emulate Tom and his wild ideas to capture Jerry? Or even Wile E’s absurd methods to try and catch the Roadrunner? Fret no more! Kluge gives you the resources to nurture your inner mad scientist! ",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "A written round basically testing the logical and reasoning skills.6 top scoring teams will be selected to next round. "
+                        },
+                        {
+                            "title": "Puzzle ",
+                            "description": "4 teams out of the six who manage to solve a puzzle under certain conditions within a limited time will qualify for the final round "
+                        },
+                        {
+                            "title": "Finals ",
+                            "description": "The teams need to develop a contraption to make the final product that will be announced at the time of the event using items provided on the spot.The team who completes the task with more number of steps will be declared as winners."
+                        }
+                    ],
+                    "rules": [
+                        "1.Teams can have 4 members. \n2.Only the provided set of materials may be used in the creation of the machines.\n3. Malpractices and sabotaging other teams' machines will lead to immediate disqualification. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Sharan Menon",
+                            "phno": "+91-9447390244",
+                            "email": "saranmenon94.mec@gmail.com "
+                        },
+                        {
+                            "name": "Vandana V Nath",
+                            "phno": "+91-8281337667",
+                            "email": "vandanavnath@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E4",
+                    "title": "Fun Zone",
+                    "image": "o",
+                    "about": "Let your hair down and take a break from the rigours of life with the funzone. Chill out, share a few laughs and soak in the ambience of Excel while having the time of your life.",
+                    "event_format": [
+                        {
+                            "title": "No Formats ;)\nJust have fun ",
+                            "description": " "
+                        },
+                        {
+                            "title": "",
+                            "description": ""
+                        }
+                    ],
+                    "rules": [
+                        "No Rules ;)\nJust have fun "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Neelanjana J",
+                            "phno": "+91-8089575550",
+                            "email": "neelanjana@excelmec.org"
+                        },
+                        {
+                            "name": "",
+                            "phno": " ",
+                            "email": ""
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E5",
+                    "title": "CSI",
+                    "image": "g",
+                    "about": "A shocking truth lies beneath a brilliant crime. Looks could be deceptive and evidences misleading. Put on your gloves and grab your magnifying glasses because there is more to see than what meets the eye. Compete with the masterminds to become the first to decipher the mystery behind an unsolvable crime.\"It is elementary, my dear Watson\".",
+                    "event_format": [
+                        {
+                            "title": " PRELIMINARY ROUND ",
+                            "description": "Prelims include a written test consisting of 40 questions based on logical and reasoning skills, which should be finished within 30 minutes. 8 teams will be shortlisted from this round. "
+                        },
+                        {
+                            "title": "INTERMEDIATE ROUND ",
+                            "description": "Each shortlisted team will be provided with the sketch of a person and the spot inside the college campus where one could find the matching person. This is followed by certain tasks to be performed within the classes. The final evaluation selects the finalists.\nOnline entry directly puts a team into this level. An online CSI questionnaire will be posted in Excel FB page a week prior to Excel, and the ones with maximum number of likes for their response can form a group and proceed into the intermediate round without attending the prelims. 4 teams will be shortlisted from the round. "
+                        },
+                        {
+                            "title": "FINAL ROUND ",
+                            "description": "The finalists will be taken to the crime scene. Solve the crime within the allotted time by taking the necessary snapshots, interrogating suspects and witnesses within an hour. Present a final report regarding the complete crime. "
+                        }
+                    ],
+                    "rules": [
+                        "1.This is a team event consisting of 2 members per team.\n2.Participants need to produce a valid identity card of their respective institutes.\n3. In case of any discrepancies, decision of the coordinators shall be considered final and binding for all the teams.\n4.The judges' decision will be final. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Fenzir Latheef",
+                            "phno": "+91-9895056696",
+                            "email": "fenzirlatheef@gmail.com "
+                        },
+                        {
+                            "name": "Jawad C Sidhik",
+                            "phno": "+91-7736809570",
+                            "email": "jawadcs.mec@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E6",
+                    "title": "Spider Web",
+                    "image": "ee",
+                    "about": " Test your caliber to think out of the box and your mettle to hurl past the hurdles. Unfurl your creativity and uncage your spirit to overcome the traps on the way.\nWelcome to Spider Web! Entangled with clever mind games and challenging obstacles, you need to be not just the strongest of the lot but also the smartest to reach the finish line first. ",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "This will be a written test from which six groups will be short listed. "
+                        },
+                        {
+                            "title": "Round 2 ",
+                            "description": "A group activity round where each group will be given a single task. 4 groups will be shortlisted for the next round. "
+                        },
+                        {
+                            "title": "Round 3 ",
+                            "description": "A series of group activities which will take you to the final round. "
+                        },
+                        {
+                            "title": "final",
+                            "description": "You’re on your own here. "
+                        }
+                    ],
+                    "rules": [
+                        "1. Register in teams of 4 members.\n2.The rules for the tasks will be given on the spot. \n3.Participants will perform individually at the finals for the grand prize. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Hridul Raj",
+                            "phno": "+91-8891803223",
+                            "email": "hridulraj.mec@gmail.com "
+                        },
+                        {
+                            "name": "Nasvi Kareem",
+                            "phno": "+91-9633255827",
+                            "email": "nasvikareem.mec@gmail.com"
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E7",
+                    "title": "Third Eye Photography",
+                    "image": "y",
+                    "about": "Photography revolves around one word- perspective. The secret lies in etching the moment in your mind before capturing it on the screen.\nIf you are one whose every click is more than just a photograph, Third Eye Photography is the ideal platform to flaunt those splendid snaps.",
+                    "event_format": [
+                        {
+                            "title": "First Phase",
+                            "description": "An online photography contest spanning 6 weeks, where participants submit photographs related to the theme provided for that time period"
+                        },
+                        {
+                            "title": "Second Phase",
+                            "description": "On-Spot Contest \nThe On-Spot contest will be cumulative from the Online round. Participants will be given various themes onsite and asked to take photographs based on the given themes.Participants can submit utmost 3 photographs based on the theme. "
+                        },
+                        {
+                            "title": "Third phase",
+                            "description": "A one day photo-walk with the professional photographer, where tips and techniques for mastering nature and macro photography will be discussed. Both the winners would be invited for the walk. This phase will have separate registration. "
+                        }
+                    ],
+                    "rules": [
+                        "Check out our website for more details http://excelmec.org/excel2015/thirdeyephotography.php"
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Abhijith D",
+                            "phno": "+91-9496266679",
+                            "email": "abhijithd94@gmail.com "
+                        },
+                        {
+                            "name": "",
+                            "phno": "",
+                            "email": ""
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E8",
+                    "title": "Tiki-Taka",
+                    "image": "n",
+                    "about": "Calling all football maniacs! Here is the perfect event to showcase your arsenal of football skills. Pick your own teams and compete in this one of a kind 3’s football competition. ",
+                    "event_format": [
+                        {
+                            "title": "",
+                            "description": "Tiki Taka is a 3 on 3 football tournament. The matches will be played in the knockout format. Contestants can register exclusively for this event at the venue, i.e., no need for Excel registration. "
+                        },
+                        {
+                            "title": "",
+                            "description": ""
+                        }
+                    ],
+                    "rules": [
+                        "Same as football"
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Afeed Ali",
+                            "phno": "+91-8089063531",
+                            "email": "afeed93.mec@gmail.com"
+                        },
+                        {
+                            "name": "Shaheer K",
+                            "phno": "+91-9633800017",
+                            "email": "shaheerkorambayil@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E9",
+                    "title": "Dunk 360",
+                    "image": "c",
+                    "about": "A chance to prove how good you are at shooting the hoop. Let the adrenaline rush get the best of you!",
+                    "event_format": [
+                        {
+                            "title": "prelims",
+                            "description": "will be updated soon"
+                        },
+                        {
+                            "title": "final",
+                            "description": "will be updated soon"
+                        }
+                    ],
+                    "rules": [
+                        "will be updated soon"
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Neelanjana J",
+                            "phno": "+91-8089575550",
+                            "email": "neelanjana@excelmec.org"
+                        },
+                        {
+                            "name": "",
+                            "phno": "",
+                            "email": ""
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E10",
+                    "title": "Treasure Hunt",
+                    "image": "dd",
+                    "about": "You really need a description for this? If you need a description for this, this event probably ain’t for you. ",
+                    "event_format": [
+                        {
+                            "title": "Round 1 ",
+                            "description": "A written round comprising of questions on just about anything. Treasure hunters must be well informed you know. "
+                        },
+                        {
+                            "title": "Round 2 ",
+                            "description": "Qualifying teams will be given tasks, which they need to finish by given time.  "
+                        },
+                        {
+                            "title": "Round 3 ",
+                            "description": "Qualifying teams will be given clues, which they need to decode and ultimately find the treasure. "
+                        }
+                    ],
+                    "rules": [
+                        "1. Registration for the event is onsite, at the event venue. \n2.Each team may consist of 4 - 5members. \n3.Any team found guilty of tampering with/mutilating the clues will be disqualified. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Boniface George",
+                            "phno": " +91-8281041938",
+                            "email": "bonifacegeorge94@gmail.com "
+                        },
+                        {
+                            "name": "Deepthi PV",
+                            "phno": "+91-9048625209",
+                            "email": "deepthipv.mec@gmail.com"
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E11",
+                    "title": "Defacto",
+                    "image": "i",
+                    "about": "Defacto is a complete quizzing experience, tailor made for school students. It combines a fun interactive session with quizzing and offers plenty of interesting puzzles to rack those young brains! For all curious minds out there, Defacto promises to bring about an energy never seen before in you. ",
+                    "event_format": [
+                        {
+                            "title": "Prelims",
+                            "description": "A written selection round where teams of two have to answer a set of questions. "
+                        },
+                        {
+                            "title": " Finals ",
+                            "description": "Six teams qualify for the finals. "
+                        }
+                    ],
+                    "rules": [
+                        "1.School students from classes 7-12 can participate. \n2. A team should comprise of 2 members. \n3.Online registration and spot registration available for the teams. Spot registration will be closed half an hour before the prelims. \n3.Winners and runners up of the quiz will be rewarded. \n4. The team with the most innovative ‘name’ will be rewarded. \n5.The school with the maximum participation will also be rewarded. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Alina Sebastian",
+                            "phno": "+91-8281314006",
+                            "email": "alinasebastian.mec@gmail.com "
+                        },
+                        {
+                            "name": "Yohann Mathews",
+                            "phno": "+91-8289845144",
+                            "email": "yohannmathews@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E12",
+                    "title": "Game Zone",
+                    "image": "p",
+                    "about": "Game zone is the ultimate platform which provides you with such an opportunity. Let your fingers take on the battle on the screen. ",
+                    "event_format": [
+                        {
+                            "title": "Maelstrom Dota 2",
+                            "description": "An amateur Online DOTA 2 tournament conducted in association with Excel 2015.The Maelstrom Dota 2 tournament will follow a league format consisting of a maximum of 40 teams. The top 16 teams that succeed at the group stages will be seeded into an upper bracket and a lower bracket which will follow The International Dota 2 Championship format. "
+                        },
+                        {
+                            "title": "FIFA ",
+                            "description": "Number of Players: 2 \nMatch Format: Players go head to head in two (2) four (4) minute halves. \n Tournament Format: Knockout \nTeams: Any team international or club except Italian National Team, Classic XI, World XI. Kindly note due FIFA’s inconsistency the combination of certain teams may lead to the game crashing, in which case either of the players may be asked to changed teams. "
+                        },
+                        {
+                            "title": "Counter Strike 1.6",
+                            "description": " The team may consist of up to 4 members.\n A knife round will decide which team starts as Counter-Terrorist or Terrorist, the team who wins the knife round chooses the team. Both teams meet up at the knife-spot on the map. You are not allowed to go around the map to attack the other team from behind. It is forbidden to boost up on boxes or do similar things to get an advantage. \n $800 will be set as the starting money for each match.\n Maps:\nde_dust2\nde_inferno\nde_nuke\nde_train  "
+                        }
+                    ],
+                    "rules": [
+                        "Enjoy the Games"
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Akash Madhavan",
+                            "phno": "+91-9037376971",
+                            "email": "akash94mec@gmail.com "
+                        },
+                        {
+                            "name": "Ajith George (Maelstrom Dota 2)",
+                            "phno": "+91-9495915443",
+                            "email": "ajithmec7@gmail.com"
+                        },
+                        {
+                            "name": "Mohammed Irshad",
+                            "phno": "+91-8547731514",
+                            "email": "irshadrh10@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E13",
+                    "title": "Short Film",
+                    "image": "y",
+                    "about": "\"Cinema is a matter of what's in the frame and what's out\"\n\t\t\t\t\t\t\t\t\t\t\t ― Martin Scorsese\n\n Speak your mind thorough the realm of 70mm.  ",
+                    "event_format": [
+                        {
+                            "title": "Round 1: ",
+                            "description": "An entry level round which will be conducted online, where the contestants have to fill up an application form along with the link of the short film which they have uploaded in YouTube. "
+                        },
+                        {
+                            "title": "Round 2: ",
+                            "description": "Public presentation round, where selected films will be screened and reviewed by a panel of judges. "
+                        }
+                    ],
+                    "rules": [
+                        "1. All entries must be original and duplicate/copied content will lead to direct disqualification. \n2.Time cannot exceed 20 minutes including the time for titles and credits.\n3.Maximum of 15 people can appear on screen as a part of cast and 10 people behind the screens. \n4.Languages allowed are Malayalam,English or altogether can be silent. \n5. Presence of any form of vulgarity or obscenity will not be tolerated and will lead to direct disqualification. \n6.Subtitles can be provided for clarity sake. Participants are encouraged to do so.\n7.The short film has to be uploaded to YouTube and a link has to be submitted through the application form.The minimum video quality required is 480p. "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Indu Menon",
+                            "phno": "+91-8281274740",
+                            "email": "indurmenon.mec@gmail.com "
+                        },
+                        {
+                            "name": "Deepak George",
+                            "phno": " +91-8547910525",
+                            "email": "deepakgeorge92@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                },
+                {
+                    "id": "CMP05E16",
+                    "title": "Papyrus Of Ani",
+                    "image": "x",
+                    "about": "Papyrus of ani provides you the right platform to curb the thirst of the scientific world with your brilliant thoughts and win exciting cash prizes! It is not merely a paper presentation competition but your chance to pave way for a better tomorrow! \nA classic paper presentation event. This is where you ideate the abstractions in your head.   ",
+                    "event_format": [
+                        {
+                            "title": " ",
+                            "description": "Check our website for more details "
+                        },
+                        {
+                            "title": " ",
+                            "description": ""
+                        }
+                    ],
+                    "rules": [
+                        "1. A team can have a maximum of 3 members \n2.Word limit of the abstract is 600 words and that of the full paper is 6000 words. \n3.The paper should have an Abstract and its first title should necessarily be an Introduction. \n4.The last two titles of the paper should necessarily be Conclusion and References. \n5.20% of the total marks will be allotted for format of Report and the rest is for Presentation style as well as the Question and Answer session.  "
+                    ],
+                    "contacts": [
+                        {
+                            "name": "Gokul Krishnan",
+                            "phno": " +91-9446359714",
+                            "email": "gokulkrishnan.mec@gmail.com  "
+                        },
+                        {
+                            "name": "Archana R",
+                            "phno": "+91-8089758060",
+                            "email": "archanarafeeq@gmail.com "
+                        }
+                    ],
+                    "schedule": {
+                        "date": "16th October,2015",
+                        "time": "10:00 am",
+                        "venue": "Media Hall"
+                    },
+                    "prizes": {
+                        "first": " ",
+                        "second": " ",
+                        "third": " "
+                    }
+                }
+            ]
+        }
+    ],
+    "talks": [
+        {
+            "id": "TS01",
+            "title": "Guest Lectures",
+            "image": "taks",
+            "color": "blue",
+            "about": "Excel has planned a series of talks with a goal to flare up, inspire and motivate the participants of Excel 2015. Spread through three power-packed days, 'Guest Lectures’ aims to facilitate the spread of ideas and thoughts, and improve appreciation of art and scientific temper.",
+            "registration": "will be updated soon",
+            "schedule": {
+                "date": "17th sept",
+                "time": "9am",
+                "venue": "media hall"
+            },
+            "speakers": [
+                {
+                    "title": "Will be updated soon",
+                    "image": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "TS02",
+            "title": "Conferences",
+            "image": "taks",
+            "color": "blue",
+            "about": "This year Excel Conferences presents 2 parallel tracks on and Big Data & IoT and Open Hardware, in accordance with the theme \"Towardsaconnectedworld\" on September 12th 2015 with eminent speakers from these fields. The stage will be thrown open to the experts and a healthy albeit engaging discussion on these trending topics will definitely be a great learning experience.",
+            "registration": "will be updated soon",
+            "schedule": {
+                "date": "17th sept",
+                "time": "9am",
+                "venue": "media hall"
+            },
+            "speakers": [
+                {
+                    "title": "Will be updated soon",
+                    "image": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "TS03",
+            "title": "Untitled: Make Your Own Story",
+            "image": "taks",
+            "color": "blue",
+            "about": "For the first time in its history, Govt. Model Engineering College, Kochi, will serve as a platform to facilitate interaction between startups and investors. Conducted as a part of EXCEL, the annual national-level techno managerial symposium of the college, this event is essentially a 3 way, interactive discussion between people with ideas, people with capital and people with curiosity.\n\n\nPresenting ‘Untitled’, a one of a kind venture by Excel 2015. With the inherent message of ‘Make your own story’, this event will serve as a link between startups with an idea or a product, and investors willing to back up the potential big shots of tomorrow.",
+            "registration": "",
+            "schedule": {
+                "date": "17th sept",
+                "time": "9am",
+                "venue": "media hall"
+            },
+            "speakers": [
+                {
+                    "title": "Will be updated soon",
+                    "image": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "TS04",
+            "title": ".issue!",
+            "image": "taks",
+            "color": "blue",
+            "about": "\" They say actions speak louder than words. But it’s the words that give breath to these actions.\" At .ISSUE!, we exercise our freedom of speech with a voice to set in motion the gears of action. The term .issue! in computer terminology means to find the root of the issue and resolving it. With a vibrant panel of speakers and an enthusiastic crowd consisting of adults and youth alike, .ISSUE! sets the eyes of the public on the many illicit activities and heinous developments in society with the motive of educating them and at the same time inspiring actions to confront these problems.\nBe a part of the most spectacular show !!!\nARISE, AWAKE AND STOP NOT UNTIL THE GOAL IS REACHED !!!",
+            "registration": "will be updated soon",
+            "schedule": {
+                "date": "17th sept",
+                "time": "9am",
+                "venue": "media hall"
+            },
+            "speakers": [
+                {
+                    "title": "Will be updated soon",
+                    "image": "",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "id": "TS05",
+            "title": "Exhibitions",
+            "image": "taks",
+            "color": "blue",
+            "about": "Standing true to its motto-To inspire, innovate and engineer, Excel 2015, the techno-managerial symposium of Govt Model Engineering College plans to provide the budding minds a chance to grasp the motivation needed to engineer a better tomorrow. Excel offers a platform where students and professionals display their exhibits because at excel we believe nothing teaches a person more than exposure.Excel hosts the unique “MECLABS” where the students of model engineering college showcase as projects, some solution to solving real life hitches. Excel also marks the day for the final exhibition of the renowned IBETO-Innovation for Better TOmorrow, where bright ideas of broad thinkers which have the potent to alter the future are funded and mentored. Apart from the students initiative Excel also holds the stature for providing the dais for professionals and organizations to exhibit their inventions and products",
+            "registration": "will be updated soon",
+            "schedule": {
+                "date": "17th sept",
+                "time": "9am",
+                "venue": "media hall"
+            },
+            "speakers": [
+                {
+                    "title": "Will be updated soon",
+                    "image": "",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "proshow": [
+        {
+            "title": "Vidwaan",
+            "image": "pro1",
+            "description": "pro show1 description sample 1344653222fdjhgstjrde"
+        },
+        {
+            "title": "Vidwaan",
+            "image": "pro2",
+            "description": "pro show 2 description sample 1344653222fdjhgstjrde"
+        },
+        {
+            "title": "Vidwaan",
+            "image": "pro3",
+            "description": "pro show 3 description sample 1344653222fdjhgstjrde"
+        },
+        {
+            "title": "Vidwaan",
+            "image": "pro4",
+            "description": "pro show 4 description sample 1344653222fdjhgstjrde"
+        }
+    ],
+    "initiatives": [
+        {
+            "title": "Ibeto",
+            "image": "ibeto",
+            "color": "blue",
+            "description": "IBeTo or “Innovations for a Better Tomorrow” is the national level pursuit, hosted by Excel for extraordinary innovative minds with ideas capable of aiding social upliftment through technology.\n\nIBeTo 2015 is the fourth edition of IBeTo which promises to be as exciting as ever and with a commitment to bring the trailblazers to the forefront and change tomorrow for the better. "
+        },
+        {
+            "title": "Ibeto Junior",
+            "image": "ibetojr",
+            "color": "red",
+            "description": "IBeTo Junior is an initiative to encourage the imaginative science lovers, the budding engineers among school level students to pursue their creative ideas to completion. The best sixty budding entries will be favoured with technical guidance to help them through the development phase. Coming on the back of two great editions, IBeTo Junior has set a mark at a whole new level and promises to be an inspiration for the years to come."
+        },
+        {
+            "title": "Women Empowerment And Security Campaign",
+            "image": "initiatives",
+            "color": "blue",
+            "description": "The subject of empowerment of women and also their security has become a burning issue all over the world including India since last few decades. Excel 2015 in association with WIE MEC takes up this issue and has in its agenda to spread awareness to women in rural areas, by conducting campaign regarding the safety issues faced by women in today’s world, especially the ones due to misuse of technology. In addition to that, by teaming up with a medical wing we plan to conduct a general medical camp along with breast cancer awareness program, which would be of utmost relevance in the detection of the disease at a very early phase and also regarding its treatment. Besides that, we intend to provide basic tips on cleanliness and personal hygiene educate them on the health hazards caused due to unhygienic living.  "
+        },
+ {
+            "title": "Waste Management Initiatives",
+            "image": "initiatives",
+            "color": "blue",
+            "description": "Improper disposal of waste is a grave issue that we all encounter on a daily basis. Waste cannot be simply thrown away anymore, now it must be managed. Are you aware that you are throwing away many materials that could be saved? Although managing the trash seems to be a tedious process, once implemented scientifically the major hazards of improper waste management can be tackled to a great extent. Excel 2015 in association with NSS MEC aims to solve this problem using the mantra of 3Rs- Reduce, Reuse, Recycle. Many items that are dumped as garbage can be reused, at least to serve the purpose of garbage cans and can be implemented in all the nooks and corner of the campus. These ‘garbage-garbage cans’ will be put into effective utilisation and also proper disposal of the waste collected will be ensured.  "
+        },
+ {
+            "title": "Awareness Campaign Against Technology Addiction",
+            "image": "initiatives",
+            "color": "blue",
+            "description": "Social networking sites, gaming activities and several more today have become a part and parcel of every teen’s life. Through this campaign we hope to make the current generation aware of the positives and negatives of technology. We would like to spread the message across school students that technology usage is definitely not bad but over usage can lead to extremely grave ill-effects. We aim to cover schools in and around Kochi over a span of 1 month trying to make school students aware of the grave repercussions of technology addiction and also motivate them to set apart a certain duration of time from their daily life away from all gadgets and try and spend this quality time by engaging in several other productive activities. "
+        }
+    ],
+    "excelpro": [
+        {
+            "image": "excelpro",
+            "title": "Illuminati",
+            "color": "blue",
+            "description": "The Illuminai Quiz will set your brains whizzing, make you go hmmm… and blow you away with the 8th edition of one of the most well known extravaganzas of the South-Indian quizzing circuit.\nSo get ready for some head scratching,face palming and nail-biting moments!"
+        }
+    ],
+    "info": [
+        {
+            "title": "Important Contacts",
+            "image": "inf",
+            "color": "blue",
+            "list": [
+                {
+                    "title": "Mathew T George",
+                    "description": "Excel Chairman",
+                    "phno": "",
+                    "image": "mathewtgeorge"
+                },
+                {
+                    "title": "Asif Ali",
+                    "description": "Secretary",
+                    "phno": "",
+                    "image": "asifali"
+                },
+                {
+                    "title": "Kevin Jacob",
+                    "description": "Joint Secretary",
+                    "phno": "",
+                    "image": "kevin"
+                },
+                {
+                    "title": "Ajmal Azeez",
+                    "description": "CS Head",
+                    "phno": "",
+                    "image": "ajmalazeez"
+                },
+                {
+                    "title": "Vibin John",
+                    "description": "EC Head",
+                    "phno": "",
+                    "image": "vibin"
+                },
+                {
+                    "title": "Althaf K M",
+                    "description": "Finance",
+                    "phno": "",
+                    "image": "althaf"
+                },
+                {
+                    "title": "Arjun Sasikumar",
+                    "description": "Media",
+                    "phno": "",
+                    "image": "arjunsasi"
+                },
+                {
+                    "title": "Sethu Madavan",
+                    "description": "Management",
+                    "phno": "",
+                    "image": "sethu"
+                },
+                {
+                    "title": "Hilal MOhammed",
+                    "description": "Management",
+                    "phno": "",
+                    "image": "hilal"
+                },
+                   {
+                    "title": "Eldhose Elias",
+                    "description": "Marketing",
+                    "phno": "",
+                    "image": "eldhoseelias"
+                },
+                {
+                    "title": "Mathew Shaji",
+                    "description": "Marketing",
+                    "phno": "",
+                    "image": "mathew"
+                },
+                {
+                    "title": "Ashwin jose",
+                    "description": "Design Head",
+                    "phno": "",
+                    "image": "ashwinjose"
+                },
+                {
+                    "title": "harishankar Krishnankutty",
+                    "description": "Web Head",
+                    "phno": "",
+                    "image": "harishanker"
+                },
+                {
+                    "title": "Anjana Krishnakumar",
+                    "description": "Social Initiatives",
+                    "phno": "",
+                    "image": "anjanakrishnakumar"
+                },
+                {
+                    "title": "Aswin R K",
+                    "description": "Public Relation",
+                    "phno": "",
+                    "image": "aswin"
+                },
+                {
+                    "title": "Ajay Mathew joseoph",
+                    "description": "Public Relation",
+                    "phno": "",
+                    "image": "ajaymathew"
+                },
+                {
+                    "title": "Avinash Pai",
+                    "description": "Creative Content",
+                    "phno": "",
+                    "image": "avinash"
+                },
+                {
+                    "title": "Neelanjana Jayalakshmi",
+                    "description": "Non Technical",
+                    "phno": "",
+                    "image": "neelanjna"
+                },
+                {
+                    "title": "Anjaly Saju",
+                    "description": "Talks Head",
+                    "phno": "",
+                    "image": "anjalysaju"
+                },
+                {
+                    "title": "Gayathri S Nambiar",
+                    "description": "Conferences",
+                    "phno": "",
+                    "image": "gayathri"
+                }
+            ]
+        },
+        {
+            "title": "Sponsors",
+            "image": "banner",
+            "color": "red",
+            "list": [
+                {
+                    "title": "Federal Bank",
+                    "description": "",
+                    "phno": "",
+                    "image": "federal"
+                },
+                {
+                    "title": "KERAFED",
+                    "description": "",
+                    "phno": "",
+                    "image": "kerala"
+                },
+                {
+                    "title": "Kerala Tourism",
+                    "description": "",
+                    "phno": "",
+                    "image": "ker"
+                },
+                {
+                    "title": "KSFE",
+                    "description": "",
+                    "phno": "",
+                    "image": "ksfe"
+                },
+                {
+                    "title": "ICFOSS",
+                    "description": "",
+                    "phno": "",
+                    "image": "icfoss"
+                }
+            ]
+        },
+        {
+            "title": "Developers",
+            "image": "banner",
+            "color": "blue",
+            "list": [
+                {
+                    "title": "Jerin Viju",
+                    "description": "CS5B",
+                    "phno": "+91 854722661",
+                    "image": "jerin"
+                },
+                {
+                    "title": "Shriram Pradeep",
+                    "description": "CS5B",
+                    "phno": "+91 8547637876",
+                    "image": "shriram"
+                },
+                {
+                    "title": "Jincy Anna Abraham",
+                    "description": "CS7A",
+                    "phno": "+91 9995400596",
+                    "image": "jincy"
+                },
+                {
+                    "title": "Jose Antony",
+                    "description": "CS5A",
+                    "phno": "+91 9496863403",
+                    "image": "jose"
+                }
+            ]
+        }
+    ]
+}
+

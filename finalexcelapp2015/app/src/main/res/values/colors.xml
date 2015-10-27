@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Theme Colors-->
+    <color name="ColorPrimary">#FFffff</color>
+    <color name="Colors">#55598b</color>
+    <color name="ColorPrimaryDark">#00000000</color>
+    <color name="textColorPrimary">#FFFFFFFF</color>
+    <color name="windowBackground">#ffe3e3e3</color>
+    <color name="mainBodyText">#FF3F3F3F</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#fafafa</color>
+    <color name="black">#000000</color>
+    <color name="light_blue">#00aaff</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="tabsScrollColor">#8a140e</color>
+    <color name="transparent">#00000000</color>
+    <color name="lemon_yellow">#c6c900</color>
+    <color name="red">#e71e60</color>
+    <color name="blue1">#2badd7</color>
+    <color name="grey">#808080</color>
+    <color name="lightblue">#0071bc</color>
+    <color name="lightgrey">#ddd</color>
+
+</resources>

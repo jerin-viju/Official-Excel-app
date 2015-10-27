@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    >
+
+    <fragment android:id="@+id/map"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.google.android.gms.maps.SupportMapFragment" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignTop="@+id/middleLayer"
+
+        >
+        <net.i2p.android.ext.floatingactionbutton.FloatingActionsMenu
+            android:id="@+id/multiple_actions"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/abc"
+            fab:fab_addButtonColorNormal="#ff4519"
+            fab:fab_addButtonColorPressed="@color/white_pressed"
+            fab:fab_addButtonPlusIconColor="#fff"
+            fab:fab_labelStyle="@style/menu_labels_style"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true">
+
+            <net.i2p.android.ext.floatingactionbutton.FloatingActionButton
+                android:id="@+id/floormap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fab:fab_size="mini"
+
+                fab:fab_icon="@drawable/collegenav"
+                fab:fab_colorNormal="#ff4519"
+                fab:fab_title="Floor map"
+                fab:fab_colorPressed="@color/white_pressed"/>
+
+            <net.i2p.android.ext.floatingactionbutton.FloatingActionButton
+                android:id="@+id/street"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fab:fab_size="mini"
+
+                fab:fab_icon="@drawable/compass"
+                fab:fab_colorNormal="#ff4519"
+                fab:fab_title="street view"
+                fab:fab_colorPressed="@color/white_pressed"/>
+
+            <net.i2p.android.ext.floatingactionbutton.FloatingActionButton
+                android:id="@+id/navigation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                fab:fab_size="mini"
+                fab:fab_icon="@drawable/icon_homenavigation"
+                fab:fab_colorNormal="#ff4519"
+                fab:fab_title="Navigation"
+                fab:fab_colorPressed="@color/white_pressed"/>
+
+
+
+        </net.i2p.android.ext.floatingactionbutton.FloatingActionsMenu>
+
+    </RelativeLayout>
+</FrameLayout>

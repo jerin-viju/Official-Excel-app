@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:flipview="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="horizontal">
+
+    <se.emilsjolander.flipview.FlipView
+        android:id="@+id/flip_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff"
+        flipview:orientation="vertical"
+        tools:context="com.example.jerin.finish.Newsfeed.Newsfrrd" >
+    </se.emilsjolander.flipview.FlipView>
+    <TextView
+        android:id="@+id/empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center|center_vertical"
+        android:text="Loading..."
+        android:textColor="@color/white"
+        android:background="@color/blue"
+        android:textSize="32sp"
+        android:visibility="gone" />
+</LinearLayout>

@@ -1,0 +1,272 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/pro1" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/year"
+                    android:text="2014"
+                    android:textColor="#fff"
+                    android:layout_margin="20dp"
+                    android:textSize="45dp"
+                    android:paddingBottom="10dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"/>
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Vidwan"
+                android:id="@+id/proname"
+                android:textColor="#136607"
+                android:background="#fff"
+                android:gravity="left"
+                android:textSize="40dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="50dp"
+                    android:textSize="15dp"
+                    android:text="We are an Indian Folk Electronic ensemble from Kerala, South India.Vidwan is an initiative to present music with no boundaries, and a platform for the band to bring together their collective influences from all over the world and manifest it in music.
+Vidwan derives its influences from Hindustani and Carnatic music of India, as well as Jazz, Hip-Hop and Electronic music.Each member of the band comes from various different backgrounds of music,all combined to form a rich unique flavor that pleases all tastes of crowds."
+                    android:background="#fff"/>
+
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_gravity="center"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/pro5" />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="2014"
+                    android:textColor="#fff"
+                    android:layout_margin="20dp"
+                    android:textSize="45dp"
+                    android:paddingBottom="10dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"/>
+            </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Baiju Dharmajan"
+                android:id="@+id/proname1"
+                android:textColor="#136607"
+                android:background="#fff"
+                android:gravity="left"
+                android:textSize="40dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="50dp"
+                    android:textSize="15dp"
+                    android:id="@+id/content1"
+                    android:text="Baiju, often referred to as The God of Small Strings is one of Indias most revered and celebrated guitar players. After a long and successful stint with the iconic Indian rock band Motherjane, Baiju infused his carnatic inspired guitar playing styles into the compositions hes
+created with the Baiju Dharmajan Syndicate."
+                    android:background="#fff"/>
+
+            </RelativeLayout> <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                android:src="@drawable/pro2" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2013"
+                android:textColor="#fff"
+                android:layout_margin="20dp"
+                android:textSize="45dp"
+                android:paddingBottom="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Thaikkudam Bridge"
+                android:textColor="#136607"
+                android:background="#fff"
+                android:id="@+id/proname3"
+                android:gravity="left"
+                android:textSize="40dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="50dp"
+                    android:textSize="15dp"
+                    android:id="@+id/content2"
+                    android:text="Thaikkudam Bridge is a Kerala based music band, founded by cousins Govind Menon and Siddharth Menon. The band became first famous through the musical show Music Mojo, which is telecast on Kappa TV and their own composition Fish Rock which became popular through social media networking sites and YouTube.
+The band does not have a specific genre and performs in various genres."
+                    android:background="#fff"/>
+
+            </RelativeLayout> <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                android:src="@drawable/pro3" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2012"
+                android:textColor="#fff"
+                android:layout_margin="20dp"
+                android:textSize="45dp"
+                android:paddingBottom="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Naresh Iyer"
+                android:id="@+id/proname4"
+                android:textColor="#136607"
+                android:background="#fff"
+                android:gravity="left"
+                android:textSize="40dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="50dp"
+                    android:textSize="15dp"
+                    android:id="@+id/content3"
+                    android:text="Naresh Iyer is a playback singer from Mumbai, India. Naresh Iyer has rendered film songs in several Indian languages and has several chart hits to his credit. His rendition of Roobaroo from the movie Rang De Basanticomposed by A. R. Rahman topped the music charts for many weeks in 2006 and won him the National Film Award for Best Male Playback Singer. He also won the Filmfare award in the R.D. Burman Musical Talent category. He is one of the few playback singers to have won both a Filmfare Award and a National Award in his professional debut singing year."
+                    android:background="#fff"/>
+
+            </RelativeLayout> <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.fmsirvent.ParallaxEverywhere.PEWImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                android:src="@drawable/pro4" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2011"
+                android:textColor="#fff"
+                android:layout_margin="20dp"
+                android:textSize="45dp"
+                android:paddingBottom="10dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"/>
+        </RelativeLayout>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Avial"
+                android:id="@+id/proname5"
+                android:textColor="#136607"
+                android:background="#fff"
+                android:gravity="left"
+                android:textSize="40dp"
+                android:paddingLeft="20dp"
+                android:paddingTop="10dp"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="50dp"
+                    android:textSize="15dp"
+                    android:id="@+id/content4"
+                    android:text="Avial are an Indian alternative rock band formed in Thiruvananthapuram, Kerala, India in 2003, and known for their Malayalam lyrics. The band initially included lead vocalist Anandraj Benjamin Paul, turntablist and backing vocalist Tony John, guitarist Rex Vijayan, bassist Naresh Kamath and drummer Mithun Puthanveetil. Avial had their first breakthrough with the 2003 single Nada Nada. They are known for pioneering what they call
+Alternative Malayali rock, which is the style of combining Malayalam lyrics and rock music."
+                    android:background="#fff"/>
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</LinearLayout>

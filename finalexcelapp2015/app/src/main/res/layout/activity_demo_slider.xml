@@ -1,0 +1,98 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:background="#fff"
+    tools:context="com.greycodes.excel14.activity.DemoSliderActivity">
+    <android.support.v4.view.ViewPager
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/view_pager_slider_initial"
+        android:background="@android:color/transparent"
+        android:layout_width="match_parent"
+        android:layout_above="@+id/relative"
+        android:layout_height="fill_parent"
+
+        />
+    <LinearLayout
+        android:layout_width="200dp"
+        android:background="@color/transparent"
+        android:layout_height="25dp"
+        android:gravity="center_horizontal|center"
+        android:orientation="horizontal"
+        android:id="@+id/slider_indicator_layout"
+        android:layout_above="@+id/relative"
+        android:layout_centerHorizontal="true" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:id="@+id/relative"
+        android:layout_alignParentBottom="true"
+
+        >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="3"
+        android:orientation="vertical"
+     >
+
+        <RelativeLayout
+
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp">
+
+        
+
+            <Button
+                android:id="@+id/sign_in_button"
+                android:background="@drawable/abcde"
+                android:adjustViewBounds="true"
+              android:layout_marginTop="10dp"
+                android:layout_marginBottom="3dp"
+                android:onClick="signInButtonClicked"
+                android:text="@string/sign_in_button_text"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                android:textColor="@android:color/white"
+                android:textAllCaps="false"
+                android:layout_width="150dp"
+                android:layout_height="35dp" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp">
+
+
+            <Button
+                android:id="@+id/visit_button"
+                android:background="@drawable/abcde"
+                android:adjustViewBounds="true"
+
+                android:layout_marginTop="3dp"
+                android:onClick="visitButtonClicked"
+                android:text="@string/visit_button_text"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="@android:color/white"
+                android:textAllCaps="false"
+                android:layout_width="150dp"
+                android:layout_height="35dp" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+</RelativeLayout>
+
+
+</RelativeLayout>

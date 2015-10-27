@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:elevation="3dp"
+    android:background="@color/white">
+
+
+
+    <RelativeLayout
+        android:id="@+id/nav_header_container"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/ColorPrimaryDark">
+
+        <com.greycodes.excel14.fragment.SingleShotImageView
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+
+            android:scaleType="centerCrop"
+            android:src="@drawable/backk"
+            android:id="@+id/header_background_image"
+            />
+        <com.github.siyamed.shapeimageview.CircularImageView
+            android:id="@+id/profile_image_view_drawer"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@drawable/signin2"
+            android:visibility="visible"
+            android:scaleType="fitCenter"
+            android:layout_above="@+id/profile_name_drawer"
+            android:layout_marginLeft="25dp"
+            android:layout_marginBottom="11dp"
+            android:layout_alignParentLeft="true"
+            android:contentDescription="@string/profile_image_content_description"
+            app:siBorderWidth="0dp"
+            app:siBorderColor="@android:color/transparent" />
+
+        <TextView
+            android:id="@+id/profile_name_drawer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="15dp"
+            android:text="Neo Anderson"
+            android:layout_above="@+id/emailid"/>
+
+        <TextView
+            android:id="@+id/emailid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="30dp"
+            android:layout_marginLeft="15dp"
+            android:text="neo007@gmail.com"
+            android:textColor="#d33c3c3c"
+            android:layout_alignParentBottom="true"/>
+
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/drawerList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nav_header_container" />
+
+
+</RelativeLayout>

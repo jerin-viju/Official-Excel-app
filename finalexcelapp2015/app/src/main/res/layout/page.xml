@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.greycodes.excel14.fragment.SingleShotImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/height"
+                android:src="@drawable/load"
+                android:scaleType="centerCrop"
+                android:id="@+id/load"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height"
+            android:src="@drawable/banner"
+            android:scaleType="centerCrop"
+            android:id="@+id/headerImage"/>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="15dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/title"
+            android:textSize="25dp"
+            android:text="Ship lands on the shore of Kryptos Island"
+            android:textColor="@color/black"/>
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+                android:layout_marginTop="9dp"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Author :"
+                android:textColor="@color/blue1"
+                android:textSize="15dp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Jerin viju, Mec"
+                android:id="@+id/author"
+                android:textColor="@color/grey"
+                android:textSize="15dp"/>
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/grey"/>
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginTop="5dp"
+                android:id="@+id/description"
+                android:padding="5dp"
+                android:textColor="@color/grey"
+                android:text="helodghsdsfjfndjghfgbskjvdnjmnlksngjdsng vgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
+                />
+            </ScrollView>
+    </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

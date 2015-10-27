@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:clickable="true"
+        android:id="@+id/infoCardView"
+
+        android:layout_marginTop="9dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+
+       >
+        <LinearLayout
+            android:id="@+id/info_layout"
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:gravity="center">
+
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="100dp"
+                    android:gravity="center">
+                    <com.github.siyamed.shapeimageview.CircularImageView
+                        android:id="@+id/img_thumbnail"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+
+                        android:layout_marginLeft="25dp"
+                        android:src="@drawable/ic_profile"
+                        android:scaleType="fitCenter"
+                        android:layout_centerInParent="true"
+                        android:contentDescription="profile_\picture"
+                        app:siBorderWidth="5dp"
+                        app:siBorderColor="#Fff" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="match_parent"
+                   android:layout_marginLeft="30dp"
+                    android:layout_marginTop="8dp"
+                    android:orientation="vertical"
+                    android:weightSum="1">
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="30dp"
+                        android:gravity="top"
+                        android:id="@+id/bigTitle"
+                        android:text="Jerin viju"
+                        android:textColor="#000"
+                        android:textSize="15dp"
+                        />
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="60dp"
+                        android:id="@+id/bigDescription"
+                        android:gravity="top"
+                        android:layout_marginBottom="8dp"
+                        android:text="jerinkottackal@gmail.com\n1235666"
+                        android:textColor="#666666"
+                        android:textSize="13dp"
+                        android:layout_weight="0.5"/>
+
+
+
+
+
+                </LinearLayout>
+                </LinearLayout>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:gravity="center">
+
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

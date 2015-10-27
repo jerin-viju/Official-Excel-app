@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="70dp"
+    android:background="#f2f2f2"
+
+    android:layout_marginBottom="1dp">
+    <TextView
+        android:layout_width="80dp"
+        android:layout_height="70dp"
+        android:text="1"
+
+        android:gravity="center"
+        android:textSize="30dp"
+        android:textColor="#39b54a"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:gravity="center">
+    <com.github.siyamed.shapeimageview.CircularImageView
+        android:id="@+id/profile_image_view_drawer"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+
+
+        android:src="@drawable/ic_profile"
+        android:scaleType="fitCenter"
+        android:layout_centerInParent="true"
+        android:contentDescription="profile_\picture"
+        app:siBorderWidth="5dp"
+        app:siBorderColor="#Fff" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"
+            android:paddingLeft="20dp"
+            android:gravity="bottom"
+            android:text="Jerin viju"
+            android:textColor="#000"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="25dp"
+
+            android:gravity="top"
+            android:text="jerinkottackal@gmail.com"
+            android:textColor="#666666"
+            android:textSize="13dp"
+            android:layout_weight="0.5"/>
+
+
+
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="350"
+            android:textColor="#39b54a"
+            android:textSize="30dp"/>
+    </LinearLayout>
+</LinearLayout>

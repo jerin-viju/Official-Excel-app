@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="#fff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.greycodes.excel14.fragment.SingleShotImageView
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/signin"
+            android:scaleType="centerCrop"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120dp"
+            android:layout_marginTop="90dp"
+            android:gravity="center">
+
+            <com.github.siyamed.shapeimageview.CircularImageView
+                android:id="@+id/profile_image_view_drawer"
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:src="@drawable/signin2"
+                android:scaleType="fitCenter"
+                android:layout_centerInParent="true"
+                android:contentDescription="profile_\picture"
+                app:siBorderWidth="5dp"
+                app:siBorderColor="#cb1e0d3c" />
+        </LinearLayout>
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="220dp"
+        android:id="@+id/signedin"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="User name"
+            android:id="@+id/usernameTextView"
+            android:textSize="30dp"
+            android:gravity="center_horizontal|bottom"
+            android:textColor="#7f7f7f"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:id="@+id/emailTextView"
+            android:text="jerinkottackal@gmail.com"
+            android:textSize="20dp"
+            android:gravity="center_horizontal|top"
+            android:textColor="#dfdfdf"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_marginTop="50dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_height="40dp"
+            android:textColor="#fff"
+            android:gravity="center"
+            android:id="@+id/logout_button"
+            android:text="sign in with another account"
+            android:textSize="15dp"
+            android:background="#ff16ceff"/>
+
+
+
+    </LinearLayout>
+</RelativeLayout>
